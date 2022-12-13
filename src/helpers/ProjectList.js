@@ -6,7 +6,7 @@ import Proj4 from "../assets/proj4.webp";
 
 export const ProjectList = [
   {
-    name: "Connect 4",
+    name: "Connect 4 ",
     image: Proj1,
     skills: "JavaScript,HTML,CSS",
     desc: "A game where two players alter placing pieces in each column of a 7x6 grid. Once placed that spot is taken and if another piece is placed in the same column. That piece will go on top of the previous piece. Once a player has 4 in a row, they win.",
